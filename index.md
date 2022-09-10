@@ -15,3 +15,6 @@ Unix command that lists out the files in the directory
     }
 Example of a JUnit Test Case
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
